@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'FantasticView'
+  s.name             = 'Fantastic1987'
   s.version          = '1.0.0'
   s.summary          = 'By rajnish.'
 

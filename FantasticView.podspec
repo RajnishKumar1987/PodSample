@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description      = 'Sample cocopods by rajnish kumar'
 
   s.homepage         = 'https://github.com/RajnishKumar1987/PodSample'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license  = 'MIT'
   s.author           = { 'Rajnish kumar' => 'sendtorajnishkumar@gmail.com' }
   s.source           = { :git => 'https://github.com/RajnishKumar1987/PodSample.git', :tag => s.version.to_s }
 
